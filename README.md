@@ -1,6 +1,7 @@
 # Template for a NFT minting pages using the blockchain Etherum 
 
-## NOTE THIS PROJECT IS FROM 2023 A LOT OF CHANGES HAPPENED SINCE PLEASE BE CAUTIOUS USING THE BLOKCCHAIN
+## **⚠️ Note:** This project dates back to **2023**, and many changes have been made since then. Please use the blockchain implementation with caution, as it may no longer reflect current best practices or the latest updates.
+
 ## Available Scripts
 
 In the project directory, you can run:
